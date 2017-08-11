@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">e-Shoppe</string>
+
+    <string name="login">Login</string>
+    <string name="logged_in">Logged In</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="login_failure">Failed to login. Please try again.</string>
+
+    <string name="lock_creen_on">Lock Screen : ON</string>
+    <string name="lock_creen_off">Lock Screen : OFF</string>
+
+    <string name="request_log_in">Please login first to setup lock screen.</string>
+    <string name="filter_title_dialog">Dialog intent filter</string>
+
+    <string name="air_quality_level_best">Best</string>
+    <string name="air_quality_level_better">Better than good</string>
+    <string name="air_quality_level_good">Good</string>
+    <string name="air_quality_level_normal">Not so good</string>
+    <string name="air_quality_level_bad">Bad</string>
+    <string name="air_quality_level_worse">Worse than bad</string>
+    <string name="air_quality_level_worst">Wost</string>
+    <string name="air_quality_level_terrible">Terrible</string>
+
+    <string-array name="menu">
+        <item>Home</item>
+        <item>Featured</item>
+        <item>Search</item>
+        <item>Profile</item>
+        <item>Shop</item>
+        <item>Inbox</item>
+        <item>Login</item>
+        <item>Lock Screen</item>
+    </string-array>
+</resources>

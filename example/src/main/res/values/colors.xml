@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#00bfa5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#bebebe</color>
+    <color name="black">#111111</color>
+
+    <color name="air_quality_level_best">#FF006bf7</color>
+    <color name="air_quality_level_better">#FF35c0f5</color>
+    <color name="air_quality_level_good">#FF3df6f7</color>
+    <color name="air_quality_level_normal">#FF15be35</color>
+    <color name="air_quality_level_bad">#FFffc01d</color>
+    <color name="air_quality_level_worse">#FFff8534</color>
+    <color name="air_quality_level_worst">#FFff3f27</color>
+    <color name="air_quality_level_terrible">#FF430603</color>
+</resources>
